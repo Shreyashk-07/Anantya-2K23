@@ -131,7 +131,7 @@ const cardData = [
     detailed_description:
       "CAT (Cosmic Aptitude Test) is an event designed to showcase participants' aptitude skills and help them overcome the fear associated with cracking the first assessment for an interview, which is the aptitude test. The event will have two rounds. In Round 1, participants will have 45 minutes to answer 30 MCQs covering all types of aptitude questions. The top 20 participants will be shortlisted for Round 2. Round 2 is a challenging round that involves two sections. The Writing section will require participants to type an essay on a given topic, which will be evaluated by a website. Participants will be provided with computers, and 30 minutes will be given to complete and submit the essay. In the Speaking section, participants will be given a topic on which they have to speak for 5 minutes. Judges will be appointed for this section, and participants will be given sufficient time to think and present their viewpoints in a clear and concise manner. The top 3 participants of Round 2 will be declared as winners and will be awarded cash prizes and rewards, while all participants will receive participation certificates.",
     Type: "Solo",
-    prize1: "Prizes Worth Rs. 3500",
+    prize1: "Prizes Worth Rs. 3200",
     prize2: "",
     prize3: "",
     studn1: "Mugdha Kshirsagar",
@@ -284,8 +284,7 @@ const cardData = [
       "The Movie Trivia College Event is a competition that tests participants' knowledge of films from various genres and eras, Acting & Music skills too . Typically, the event is organized for college students and is conducted in a team format where teams of participants compete against each other. In this competition there are 4 rounds: Round 1: “Lagge rahoo  munna bhaii” This is a Quiz round group of two member have to participate, kahoot quiz based on trivial movie questions. Top winning teams will be proceed to next round depending on the participation count.        Round 2: “Nach baliye” The qualified teams of round 1 will be grouped in a group of four members and they will have to perform the hook step of the song played within 30 sec. Round 3: “Shamitabh” About: The qualified teams from round 2 will now showcase their acting skills by enacting movies based on hard and easy categories under limited time. Round 4: “Brahmastra” About: This is the finale round of the event where there will be blended faces of movie stars which will be showcased and in end of round we will get our WINNER. ",
 
     Type: "Team",
-    prize1: "Prizes Worth Rs. 1200",
-    prize1: "Prizes Worth Rs. 1200",
+    prize1: "Prizes Worth Rs. 2500",
     prize2: "",
     prize3: "",
     studn1: "Ankita Nandy",
@@ -320,7 +319,7 @@ const cardData = [
       "The event will take place in a large, open space with various installations and exhibits scattered throughout. Attendees will be free to wander and explore at their own pace, interacting with the art and the artists themselves. In addition to the exhibits, there will be live performances and interactive workshops where attendees can learn new techniques and try their hand at different art forms. In this event we arranging two sub-events for the attendees: Reel-making: ➨ In this event, participants will be able to showcase their creativity, talent, and editing skills such as dancing, singing, playing instruments, photography, transition videos, etc. the participants have to perform or exhibit their art or talents via a reel of a maximum of 1 minute. Photography: ➨ In this event, participants have to submit an original clicked photograph displaying the theme reflection. In this event, the participants are allowed to perform open editing revolving around the theme.",
 
     Type: "N/A",
-    prize1: "Prizes Worth Rs. 1200",
+    prize1: "Prizes Worth Rs. 2400",
     prize2: "",
     prize3: "",
     studn1: "Sanjay Chilveri",
